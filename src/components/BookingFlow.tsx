@@ -149,7 +149,7 @@ const BookingFlow = () => {
                     <CardContent className="p-4 text-center">
                       <MapPin className="w-8 h-8 text-primary mx-auto mb-2" />
                       <p className="text-sm text-muted-foreground">
-                        We serve Cairo, Giza, and New Capital areas
+                        We serve all areas across Alexandria
                       </p>
                     </CardContent>
                   </Card>
